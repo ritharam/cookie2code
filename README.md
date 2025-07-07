@@ -46,13 +46,12 @@
 - `scripting`: to interact with tab info
 No external servers, no tracking.
 
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+
 ##  Development Setup
 
 ```bash
 git clone https://github.com/yourname/cookie2code.git
 cd cookie2code
-
-## License
-
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
-
